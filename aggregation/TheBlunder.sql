@@ -1,0 +1,3 @@
+SELECT CEILING (AVG(CAST(SALARY AS DECIMAL)) -
+                AVG(CAST(REPLACE(Salary,0,'') as DECIMAL)))
+FROM Employees;

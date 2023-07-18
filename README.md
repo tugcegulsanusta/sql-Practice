@@ -44,6 +44,14 @@
 
 
 ----Aggregation----
+<<<<<<< Updated upstream
 
 1- [PopulationDensityDifference.sql](/aggregation/PopulationDensityDifference.sql): https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
+||||||| ancestor
+1- [PopulationDensityDifference.sql](/aggregation/PopulationDensityDifference.sql): https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
+=======
+1- [PopulationDensityDifference.sql](./aggregation/PopulationDensityDifference.sql): https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
+2- [TheBlunder.sql](./aggregation/TheBlunder.sql): https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
+3- [TopEarners.sql](./aggregation/TopEarners.sql): https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
+>>>>>>> Stashed changes
 
