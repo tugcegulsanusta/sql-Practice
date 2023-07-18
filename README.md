@@ -44,14 +44,37 @@
 
 
 ----Aggregation----
-<<<<<<< Updated upstream
 
 1- [PopulationDensityDifference.sql](/aggregation/PopulationDensityDifference.sql): https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
-||||||| ancestor
-1- [PopulationDensityDifference.sql](/aggregation/PopulationDensityDifference.sql): https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
-=======
+
 1- [PopulationDensityDifference.sql](./aggregation/PopulationDensityDifference.sql): https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
+
 2- [TheBlunder.sql](./aggregation/TheBlunder.sql): https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
+
 3- [TopEarners.sql](./aggregation/TopEarners.sql): https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
->>>>>>> Stashed changes
+
+4- [WeatherObservationStation2.sql](./aggregation/WeatherObservationStation2.sql): https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true
+
+5- [WeatherObservationStation13.sql](./aggregation/WeatherObservationStation13.sql): https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true
+
+6- [WeatherObservationStation14.sql](./aggregation/WeatherObservationStation14.sql): https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true
+
+7- [WeatherObservationStation15.sql](./aggregation/WeatherObservationStation15.sql): https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true
+
+8- [WeatherObservationStation16.sql](./aggregation/WeatherObservationStation16.sql): https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true
+
+9- [WeatherObservationStation17.sql](./aggregation/WeatherObservationStation17.sql): https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true
+
+
+
+
+
+
+
+
+
+
+
+
+
 
