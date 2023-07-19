@@ -1,0 +1,3 @@
+SELECT ROUND(LAT_N,4)
+FROM( SELECT row_number() over(ORDER BY LAT_N ASC) AS row_num, LAT_N FROM station)
+WHERE row_num=(SELECT ROUND(COUNT(*)/2) FROM STATION);

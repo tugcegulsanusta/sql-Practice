@@ -65,6 +65,16 @@
 
 9- [WeatherObservationStation17.sql](./aggregation/WeatherObservationStation17.sql): https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true
 
+10- [WeatherObservationStation18.sql](./aggregation/WeatherObservationStation18.sql): https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
+
+11- [WeatherObservationStation19.sql](./aggregation/WeatherObservationStation19.sql): https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true
+
+12- [WeatherObservationStation20.sql](./aggregation/WeatherObservationStation20.sql): https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true
+
+
+----Basic Join----
+
+1- [OllivandersInventory.sql](./basicJoin/OllivandersInventory.sql): https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true
 
 
 
