@@ -76,8 +76,13 @@
 
 1- [OllivandersInventory.sql](./basicJoin/OllivandersInventory.sql): https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true
 
+2- [PopulationCencus.sql](./basicJoin/PopulationCencus.sql): https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
 
+3- [AfricanCities.sql](./basicJoin/AfricanCities.sql): https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true
 
+4- [AveragePopulationOfEachContinent.sql](./basicJoin/AveragePopulationOfEachContinent.sql): https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true
+
+5- []
 
 
 
